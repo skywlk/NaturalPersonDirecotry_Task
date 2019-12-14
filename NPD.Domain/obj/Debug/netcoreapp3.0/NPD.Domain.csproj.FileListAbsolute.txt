@@ -1,0 +1,8 @@
+C:\Users\v.lashkhia\source\repos\TaskWebApi\NPD.Domain\bin\Debug\netcoreapp3.0\NPD.Domain.deps.json
+C:\Users\v.lashkhia\source\repos\TaskWebApi\NPD.Domain\bin\Debug\netcoreapp3.0\NPD.Domain.dll
+C:\Users\v.lashkhia\source\repos\TaskWebApi\NPD.Domain\obj\Debug\netcoreapp3.0\NPD.Domain.csprojAssemblyReference.cache
+C:\Users\v.lashkhia\source\repos\TaskWebApi\NPD.Domain\obj\Debug\netcoreapp3.0\NPD.Domain.AssemblyInfoInputs.cache
+C:\Users\v.lashkhia\source\repos\TaskWebApi\NPD.Domain\obj\Debug\netcoreapp3.0\NPD.Domain.AssemblyInfo.cs
+C:\Users\v.lashkhia\source\repos\TaskWebApi\NPD.Domain\bin\Debug\netcoreapp3.0\NPD.Domain.pdb
+C:\Users\v.lashkhia\source\repos\TaskWebApi\NPD.Domain\obj\Debug\netcoreapp3.0\NPD.Domain.dll
+C:\Users\v.lashkhia\source\repos\TaskWebApi\NPD.Domain\obj\Debug\netcoreapp3.0\NPD.Domain.pdb

@@ -1,0 +1,11 @@
+C:\Users\v.lashkhia\source\repos\TaskWebApi\NPD.Infrastructure\bin\Debug\netcoreapp3.0\NPD.Domain.dll
+C:\Users\v.lashkhia\source\repos\TaskWebApi\NPD.Infrastructure\obj\Debug\netcoreapp3.0\NPD.Infrastructure.csprojAssemblyReference.cache
+C:\Users\v.lashkhia\source\repos\TaskWebApi\NPD.Infrastructure\obj\Debug\netcoreapp3.0\NPD.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\v.lashkhia\source\repos\TaskWebApi\NPD.Infrastructure\obj\Debug\netcoreapp3.0\NPD.Infrastructure.AssemblyInfo.cs
+C:\Users\v.lashkhia\source\repos\TaskWebApi\NPD.Infrastructure\bin\Debug\netcoreapp3.0\NPD.Infrastructure.deps.json
+C:\Users\v.lashkhia\source\repos\TaskWebApi\NPD.Infrastructure\bin\Debug\netcoreapp3.0\NPD.Infrastructure.dll
+C:\Users\v.lashkhia\source\repos\TaskWebApi\NPD.Infrastructure\bin\Debug\netcoreapp3.0\NPD.Infrastructure.pdb
+C:\Users\v.lashkhia\source\repos\TaskWebApi\NPD.Infrastructure\bin\Debug\netcoreapp3.0\NPD.Domain.pdb
+C:\Users\v.lashkhia\source\repos\TaskWebApi\NPD.Infrastructure\obj\Debug\netcoreapp3.0\NPD.Infrastructure.csproj.CopyComplete
+C:\Users\v.lashkhia\source\repos\TaskWebApi\NPD.Infrastructure\obj\Debug\netcoreapp3.0\NPD.Infrastructure.dll
+C:\Users\v.lashkhia\source\repos\TaskWebApi\NPD.Infrastructure\obj\Debug\netcoreapp3.0\NPD.Infrastructure.pdb
