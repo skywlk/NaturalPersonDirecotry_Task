@@ -30,13 +30,13 @@ namespace NPD.Infrastructure.Context
         {
         }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            if (!optionsBuilder.IsConfigured)
-            {
-                optionsBuilder.UseSqlServer("Server=172.22.22.12;database=NPDDB;User Id=v.lashkhia;Password=Vv12345Vv;MultipleActiveResultSets=true");
-            }
-        }
+        // protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        // {
+        //     // if (!optionsBuilder.IsConfigured)
+        //     // {
+        //     //     optionsBuilder.UseSqlServer();
+        //     // }
+        // }
 
         public NPDContext(DbContextOptions<NPDContext> options) : base(options)
         {
